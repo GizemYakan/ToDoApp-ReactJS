@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "gizem.yakan9@gmail.com",
+      "password": "$2a$10$fNFfLyhr7SDZ9EuyqN/jEO0i2Jwz6ocvVwQd0DA38m7RbdZA2tkVi",
+      "id": 2
+    },
+    {
+      "email": "gy@gmail.com",
+      "password": "$2a$10$rS8hk5EM3IbroaghzF54s.4rdbbGQgtwBfmLj7bAKZkB.6.ydQrnu",
+      "id": 3
+    }
+  ]
+}
